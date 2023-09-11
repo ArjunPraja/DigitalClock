@@ -12,8 +12,8 @@ def update_clock():
 
     # Update the label texts with the current time
     box_a.config(text=Day)
-    box_b.config(text=Date)
-    box_c.config(text=Month)
+    box_b.config(text=Month)
+    box_c.config(text=Date)
     box_d.config(text=Year)
     box_e.config(text=RealTime)
 
